@@ -1,1 +1,0 @@
-<h2>Widgets page is here</h2>
